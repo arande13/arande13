@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/arande13/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network File Shares and Permissions within Azure VMs](https://github.com/arande13/configure-ad)
-  - [VPN Setup and USage](https://github.com/arande13/azure-network-protocols)
+  - [VPN Setup and Usage](https://github.com/arande13/azure-network-protocols)
 
 
 <!--
