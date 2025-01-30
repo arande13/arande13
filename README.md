@@ -6,8 +6,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/arande13/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/arande13/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/arande13/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/arande13/azure-network-protocols)
+  - [Network File Shares and Permissions within Azure VMs](https://github.com/arande13/configure-ad)
+  - [VPN Setup and USage](https://github.com/arande13/azure-network-protocols)
 
 
 <!--
